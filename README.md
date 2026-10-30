@@ -1,9 +1,9 @@
 # Hi, I'm Saad Ali Khan 👋
 
-**Software Engineer | Laravel, PHP & n8n Automation | AI Workflows**
+**Full Stack Software Engineer | React, TypeScript, Laravel & PHP | n8n Automation & AI Workflows**
 Karachi, Pakistan · Remote worldwide · Software Engineer at [Technyx](https://technyxsystems.com)
 
-I build secure backends: REST APIs, payment flows and wallet ledgers that stay correct under load. Lately I'm also building workflow automation and AI agents.
+I build full stack products: React and Next.js interfaces on secure backends: REST APIs, payment flows and wallet ledgers that stay correct under load. Lately I'm also building workflow automation and AI agents.
 
 🌐 [Portfolio](https://saadconsulting.tech) · 💼 [LinkedIn](https://www.linkedin.com/in/saad-ali-khan-01976124a/) · ✉️ saadalikhan0210@gmail.com
 
@@ -25,6 +25,6 @@ I build secure backends: REST APIs, payment flows and wallet ledgers that stay c
 
 ## 🛠 Stack
 
-`PHP` `Laravel` `Symfony` `MySQL` `PostgreSQL` `Redis` `Next.js` `TypeScript` `Python` `WordPress` `Shopify` `n8n` `Ollama` `Linux` `Nginx`
+`PHP` `Laravel` `Symfony` `MySQL` `PostgreSQL` `Redis` `React` `Next.js` `TypeScript` `Tailwind CSS` `Python` `WordPress` `Shopify` `n8n` `Ollama` `Linux` `Nginx`
 
 Read more on [saadconsulting.tech](https://saadconsulting.tech/about).
