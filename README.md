@@ -20,7 +20,8 @@ I build secure backends: REST APIs, payment flows and wallet ledgers that stay c
 
 - [**fincore**](https://github.com/ali-saad-khan/fincore): double-entry wallet ledger API (Laravel, MySQL, Redis, PHPUnit)
 - [**my-store**](https://github.com/ali-saad-khan/my-store): e-commerce platform (Next.js, TypeScript, PostgreSQL, Playwright)
-- [**freelance-growth-engine**](https://github.com/ali-saad-khan/freelance-growth-engine), [**devdesk-symfony**](https://github.com/ali-saad-khan/devdesk-symfony), [**chatbot-vector-db**](https://github.com/ali-saad-khan/chatbot-vector-db): recent work in PHP and Python
+- [**pulseboard**](https://github.com/ali-saad-khan/pulseboard): React + TypeScript analytics dashboard ([live demo](https://saadconsulting.tech/demos/pulseboard/))
+- [**devdesk-symfony**](https://github.com/ali-saad-khan/devdesk-symfony): Symfony / PHP application
 
 ## 🛠 Stack
 
